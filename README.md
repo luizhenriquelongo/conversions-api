@@ -79,7 +79,7 @@ Acesso aos dados do banco de dados (limitado a 50 documentos):
 - Organizar melhor a estrutura de pastas e arquivos;
 - Realizar testes unitários;
 - Realizar testes dos endpoints;
-- Disponibilizar um endpoint para que os dados possam ser inseridos via json na API;
+- Disponibilizar um endpoint para que os dados possam ser inseridos no formato json na API;
 
 ## Autores:
 
