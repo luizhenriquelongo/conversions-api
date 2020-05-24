@@ -1,5 +1,5 @@
 # Conversions API
-API desenvolvida com foco no desafio-problema sugerido pela empresa Movidesk
+API que filtra o numero de conversões que um usuário realizou em uma determinada plataforma com base nos dados de um banco.
 
 ## Tecnologias Utilizadas:
 - Python 3.6.9
